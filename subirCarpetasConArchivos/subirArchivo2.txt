@@ -1,2 +1,6 @@
 voy a subir Archivo2
+<<<<<<< HEAD
 modificacion conjunta Diego
+=======
+Modificación conjunta Álvaro
+>>>>>>> af095fa9bfcd760d3057a73e2696c286cadcc661
